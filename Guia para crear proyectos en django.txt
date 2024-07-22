@@ -1,0 +1,1 @@
+En cmd poner: "django-admin startproject", este comando sirve para crear proyectos
